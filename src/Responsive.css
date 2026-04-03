@@ -1,0 +1,25 @@
+@media (max-width : 1025px) {
+    .wrap-box {
+        width: 50%;
+    }
+}
+
+
+@media (max-width : 768px) {
+    .wrap-box {
+        width: 60%;
+    }
+}
+
+@media (max-width : 426px) {
+    button.btnColor {
+        padding: 6px 0px;
+        width: 80%;
+    }
+
+    .wrap-box {
+        width: 70%;
+        padding: 20px 0px;
+    }
+
+}

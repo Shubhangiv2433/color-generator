@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.wrap-box {
+    width: 30%;
+    background: white;
+    text-align: center;
+    display: block;
+    position: absolute;
+    height: 100px;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px 0px;
+}
+
+button.btnColor {
+    outline: none;
+    background: black;
+    color: #fff;
+    padding: 8px 50px;
+    font-size: 18px;
+    border-radius: 8px;
+    font-family: cursive;
+    width: 90%;
+}
+
+.copy-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button.btnCopy {
+    outline: none;
+    background: none;
+    border: none;
+    color: gray;
+    padding: 0 10px;
+    margin-bottom: 22px;
+}
