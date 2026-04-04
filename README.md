@@ -23,4 +23,4 @@ A simple React app to generate random colors.
 (Add link later if you deploy)
 
 ## 👩‍💻 Author
-Shubhangi Vishwakarma
+By Shubhangi Vishwakarma
