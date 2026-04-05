@@ -20,7 +20,7 @@ A simple React app to generate random colors.
 3. Run: npm run dev
 
 ## 🌐 Live Demo
-(Add link later if you deploy)
+https://shubhangi.gpsiinfotech.com/
 
 ## 👩‍💻 Author
 By Shubhangi Vishwakarma
